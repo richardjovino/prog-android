@@ -103,7 +103,7 @@ class _HomeState extends State<Home> {
     return Text(
       textoParaExibir,
       textAlign: TextAlign.center,
-      style: TextStyle(color: Colors.black, fontSize: 25.0),
+      style: TextStyle(color: Colors.black, fontSize: 100.0),
     );
   }
 }
